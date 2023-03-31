@@ -1,6 +1,6 @@
 package parser
 
-import "github.com/siddharth2010/lil-infra/lib/customError"
+import "github.com/0xsiddharthks/lil-infra/lib/customError"
 
 const (
 	Redis  = iota

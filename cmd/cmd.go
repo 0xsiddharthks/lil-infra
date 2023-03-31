@@ -3,9 +3,9 @@ package cmd
 import (
 	"os"
 
-	"github.com/siddharth2010/lil-infra/git"
-	"github.com/siddharth2010/lil-infra/lib/customError"
-	"github.com/siddharth2010/lil-infra/lib/parser"
+	"github.com/0xsiddharthks/lil-infra/git"
+	"github.com/0xsiddharthks/lil-infra/lib/customError"
+	"github.com/0xsiddharthks/lil-infra/lib/parser"
 )
 
 func Run() error {

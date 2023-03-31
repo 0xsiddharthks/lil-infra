@@ -1,8 +1,8 @@
 package git
 
 import (
-	"github.com/siddharth2010/lil-infra/lib/customError"
-	"github.com/siddharth2010/lil-infra/lib/parser"
+	"github.com/0xsiddharthks/lil-infra/lib/customError"
+	"github.com/0xsiddharthks/lil-infra/lib/parser"
 )
 
 func Run(command parser.ParsedCommand) error {

@@ -1,4 +1,4 @@
-module github.com/siddharth2010/lil-infra
+module github.com/0xsiddharthks/lil-infra
 
 go 1.20
 
